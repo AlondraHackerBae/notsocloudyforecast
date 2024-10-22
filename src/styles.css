@@ -2,7 +2,7 @@ body {
   background-color: rgb(249, 247, 254);
   font-family: "Nunito", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: weight;
   font-style: normal;
 }
 
