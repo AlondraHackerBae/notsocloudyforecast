@@ -118,3 +118,6 @@ a {
   padding: 0 10px;
   margin-bottom: 10px;
 }
+.weather-forecast-temperature strong {
+  font-size: 15px;
+}
