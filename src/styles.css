@@ -90,7 +90,11 @@ a {
   justify-content: center;
   margin-top: 30px;
 }
-
+.weather-forecast-day {
+  width: 100%;
+  font-size: 15px;
+  justify-content: center;
+}
 .weather-forecast-date {
   color: rgba(39, 33, 66, 0.4);
   font-size: 16px;
@@ -99,7 +103,7 @@ a {
   text-align: center;
 }
 .weather-forecast-icon {
-  font-size: 38px;
+  font-size: 35px;
   text-align: center;
 }
 .weather-forecast-temperatures {
@@ -110,6 +114,7 @@ a {
   margin-top: 10px;
 }
 .weather-forecast-temperature {
-  padding: 0 15px;
-  margin-bottom: 15px;
+  font-size: 12px;
+  padding: 0 10px;
+  margin-bottom: 10px;
 }
