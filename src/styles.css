@@ -123,6 +123,6 @@ a {
 }
 @media (max-width: 900px) {
     main {
-        width: 95%;
+        width: 50%;
     }
 }
