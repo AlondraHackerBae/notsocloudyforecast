@@ -125,4 +125,7 @@ a {
     .container {
         width: 300px;
     }
+    .weather-app-data {
+        width: 100%;
+    }
 }
