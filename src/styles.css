@@ -121,3 +121,8 @@ a {
 .weather-forecast-temperature strong {
   font-size: 15px;
 }
+@media (max-width: 900px) {
+    .container {
+        width: 300px;
+    }
+}
