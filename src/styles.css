@@ -2,8 +2,8 @@ body {
   background-color: linear-gradient(109.6deg, rgb(245, 239, 249) 30.1%, rgb(207, 211, 236) 100.2%);
   font-family: "Nunito", sans-serif;
   font-optical-sizing: auto;
-  font-weight: weight;
   font-style: normal;
+  font-weight: weight;
 }
 
 header {
@@ -15,16 +15,16 @@ header {
   background-color: white;
   border-radius: 10px;
   box-shadow: rgba(65, 50, 100, 0.08) 0px 30px 50px;
-  width: 600px;
   margin: 30px auto;
   padding: 30px;
+  width: 600px;
 }
 
 .searched-city {
   color: black;
-  margin: 0;
   font-size: 38px;
   line-height: 48px;
+  margin: 0;
 }
 
 .search-bar {
@@ -46,11 +46,11 @@ header {
 }
 
 footer {
-  color: rgba(39, 33, 66, 0.4);
-  text-align: center;
-  font-size: 14px;
   border-top: 2px solid rgb(249, 247, 254);
+  color: rgba(39, 33, 66, 0.4);
+  font-size: 14px;
   padding: 10px;
+  text-align: center;
 }
 a {
   color: rgb(136, 93, 241);
@@ -61,10 +61,10 @@ a {
   justify-content: space-between;
 }
 .weather-details {
-  font-size: 16px;
   color: rgba(39, 33, 66, 0.4);
-  line-height: 24px;
+  font-size: 16px;
   font-weight: 500;
+  line-height: 24px;
 }
 .weather-details strong {
   color: rgb(246, 82, 130);
@@ -78,12 +78,12 @@ a {
 }
 .temperature {
   font-size: 88px;
-  margin-left: 10px;
   font-weight: bold;
+  margin-left: 10px;
 }
 .unit {
-  margin-top: 16px;
   font-size: 28px;
+  margin-top: 16px;
 }
 .weather-forecast {
   display: flex;
@@ -91,9 +91,9 @@ a {
   margin-top: 30px;
 }
 .weather-forecast-day {
-  width: 100%;
   font-size: 15px;
   justify-content: center;
+  width: 100%;
 }
 .weather-forecast-date {
   color: rgba(39, 33, 66, 0.4);
@@ -108,15 +108,15 @@ a {
 }
 .weather-forecast-temperatures {
   color: rgb(246, 82, 130);
-  text-align: center;
   display: flex;
   justify-content: center;
   margin-top: 10px;
+  text-align: center;
 }
 .weather-forecast-temperature {
   font-size: 12px;
-  padding: 0 10px;
   margin-bottom: 10px;
+  padding: 0 10px;
 }
 .weather-forecast-temperature strong {
   font-size: 15px;
